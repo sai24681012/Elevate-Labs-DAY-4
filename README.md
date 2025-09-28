@@ -17,6 +17,8 @@ Use SQL queries to extract, analyze, and manipulate structured data from a relat
 - Aggregate functions: `SUM`, `AVG`, `COUNT` for metrics
 - Views for reusable analysis
 - Indexing for query performance
+## 📸 Screenshots
+<img width="898" height="689" alt="Screenshot 2025-09-28 142019" src="https://github.com/user-attachments/assets/f75864b9-6780-4fa3-b582-1897442840ab" />
 
 ## 🧪 Sample Queries
 ```sql
@@ -48,9 +50,6 @@ LIMIT 10;
 ⚙️ Performance Optimization
 CREATE INDEX idx_payment_customer ON payment(customer_id);
 CREATE INDEX idx_rental_customer ON rental(customer_id);
-📸 Screenshots
-<img width="898" height="689" alt="Screenshot 2025-09-28 142019" src="https://github.com/user-attachments/assets/9bff76af-e766-4853-95fa-3323dfeb002a" />
-<img width="485" height="304" alt="Screenshot 2025-09-28 142047" src="https://github.com/user-attachments/assets/a1171b6a-f472-407e-9eb6-a3e65796c2c6" />
 🚀 How to Run
 Clone the repository:
 git clone https://github.com/your-username/sql-data-analysis.git
