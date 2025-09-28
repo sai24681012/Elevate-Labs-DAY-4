@@ -80,13 +80,11 @@ Prepare clean deliverables for submission
 ✅ This README.md file for documentation
 ## 🧪 Testing & Validation
 
-All queries were tested using DB Browser for SQLite. Screenshots of successful query execution are included in the `screenshots/` folder. Each query was validated for:
-
+All queries were tested using DB Browser for SQLite. Screenshots of successful query execution are included in the `screenshots/` folder.
+ Each query was validated for:
 - Correct syntax
 - Accurate results
 - Performance (using indexes)
 - Reusability (via views)
 
----
 
-Let me know if you want help writing a short Git commit message or packaging your screenshots — I’ll make sure you’re submission-ready!
