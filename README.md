@@ -53,7 +53,7 @@ CREATE INDEX idx_rental_customer ON rental(customer_id);
 <img width="485" height="304" alt="Screenshot 2025-09-28 142047" src="https://github.com/user-attachments/assets/a1171b6a-f472-407e-9eb6-a3e65796c2c6" />
 🚀 How to Run
 Clone the repository:
-git clone https://github.com/your-username/sql-data-analysis.git
+git clone https://github.com/sai24681012/Elevate-Labs-DAY-4
 Open the .sqlite database in DB Browser for SQLite.
 
 Load and execute queries from sql_queries.sql.
@@ -76,7 +76,7 @@ Prepare clean deliverables for submission
 ✅ Screenshots of query outputs
 
 ✅ This README.md file for documentation
-## 🧪 Testing & Validation
+🧪 Testing & Validation
 
 All queries were tested using DB Browser for SQLite. Screenshots of successful query execution are included in the `screenshots/` folder. Each query was validated for:
 
@@ -84,7 +84,3 @@ All queries were tested using DB Browser for SQLite. Screenshots of successful q
 - Accurate results
 - Performance (using indexes)
 - Reusability (via views)
-
----
-
-Let me know if you want help writing a short Git commit message or packaging your screenshots — I’ll make sure you’re submission-ready!
