@@ -18,7 +18,7 @@ Use SQL queries to extract, analyze, and manipulate structured data from a relat
 - Views for reusable analysis
 - Indexing for query performance
 ## 📸 Screenshots
-![Top Customers Query](screenshots/top_customers.png)
+screenshots
 
 <img width="898" height="689" alt="Screenshot 2025-09-28 142019" src="https://github.com/user-attachments/assets/f75864b9-6780-4fa3-b582-1897442840ab" />
 <img width="485" height="304" alt="Screenshot 2025-09-28 142047" src="https://github.com/user-attachments/assets/1c3ffe42-e9d8-4948-b274-2c338bf10915" />
