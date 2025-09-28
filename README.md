@@ -55,7 +55,9 @@ CREATE INDEX idx_payment_customer ON payment(customer_id);
 CREATE INDEX idx_rental_customer ON rental(customer_id);
 🚀 How to Run
 Clone the repository:
-git clone https://github.com/your-username/sql-data-analysis.git
+git clone https://github.com/sai24681012/Elevate-Labs-DAY-4.git
+cd Elevate-Labs-DAY-4
+
 Open the .sqlite database in DB Browser for SQLite.
 
 Load and execute queries from sql_queries.sql.
